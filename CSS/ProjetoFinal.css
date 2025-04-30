@@ -1,0 +1,53 @@
+body {
+    /*background: linear-gradient(45deg,#da9469, #D9CAC1 );*/
+    background-image:url(../01imagem/walpaper2.jpg);
+    font-size: 20px;
+}
+
+
+
+.section-titulo {
+    color: #8C0808;
+    text-align: center;
+}
+
+.section-imag {
+    margin: 10px;
+    margin-left: 60px;
+    max-width: 50%;
+    height: auto;
+    border: solid darkred;
+    border-radius: 10px;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+   
+  }
+
+.botao {
+    flex-direction: column;
+    color: #8C0808;
+}
+
+/*button {
+    background-color:#F29B88;
+    color: #A64138;
+    margin: 50px;
+    padding:  80px 90px;
+    border: solid #F27166;
+    border-radius: 10px;
+    cursor: pointer;    
+}*/
+
+/*button:active {
+    background-color: #D9CAC1;
+    color: rgb(25, 182, 64);  
+}*/
+
+a {
+    text-decoration: none;
+    color: #A64138;
+    font-size: 40px;
+}

@@ -1,0 +1,18 @@
+body {
+    background-image:url(../01imagem/walpaper2.jpg);
+   /* background: linear-gradient(45deg,#da9469, #D9CAC1 ) ;*/
+    font-size: 25px;
+}
+
+.titulo {
+    color: #8C0808;
+    text-align: center;
+}
+
+.subtitulo {
+    color: #8e2b22;
+}
+
+.lista {
+    color: #A64138
+}

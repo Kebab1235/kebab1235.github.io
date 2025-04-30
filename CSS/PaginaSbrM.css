@@ -1,0 +1,34 @@
+body {
+    background-image:url(../01imagem/walpaper2.jpg);
+    /*background:linear-gradient(45deg,#da9469,#D9CAC1);*/
+    font-size: 25px;
+}
+
+h2 {
+    color:#8C0808 ;
+    text-align: center;
+    margin: 0px;
+}
+
+.container {
+    display: flex;
+    flex-direction: row-reverse; 
+    align-items: center;
+    gap: 20px;
+}
+
+.foto {
+    margin: 2px;
+    max-width: 20%;
+    height:auto;
+    border: solid darkred;
+    border-radius: 10px;
+    display: flex;
+    flex-direction:row-reverse;
+    
+}
+
+.lista {
+    color: #A64138;
+
+}
